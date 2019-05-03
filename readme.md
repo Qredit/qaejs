@@ -1,4 +1,4 @@
-# SLPJS
+# QAEJS
 
 SLPJS is a JavaScript Library for building [Simple Ledger Protocol (SLP)](https://github.com/simpleledger/slp-specification/blob/master/slp-token-type-1.md) token transactions.  
 
